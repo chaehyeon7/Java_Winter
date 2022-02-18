@@ -22,7 +22,7 @@ public class OperatorExam {
 		System.out.println(i + j);
 		System.out.println(i - j);
 		System.out.println(i * j);
-		System.out.println(i / j);
+		System.out.println(i / (double)j);
 		System.out.println(i % j);
 	}
 }
