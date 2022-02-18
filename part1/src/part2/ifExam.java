@@ -1,4 +1,4 @@
-package part1;
+package part2;
 
 public class ifExam {
 	public static void main(String[] args) {
