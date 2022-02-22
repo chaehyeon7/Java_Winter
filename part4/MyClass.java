@@ -2,7 +2,7 @@ package part4;
 
 public class MyClass{
 	//public 리턴타입 메소드명 (매개변수 들) {구현}
-    public void method(){
+    public void method1(){
         System.out.println("method1이 실행됩니다.");
     }
 
@@ -18,7 +18,7 @@ public class MyClass{
 
     public void method4(int x, int y){
         System.out.println(x + "," + y + " 를 이용하는 method4입니다.");
-    }
+    } 
 
     public int method5(int y){
         System.out.println(y + " 를 이용하는 method5입니다.");
