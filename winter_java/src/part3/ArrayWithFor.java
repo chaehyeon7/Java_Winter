@@ -11,6 +11,12 @@ public class ArrayWithFor {
 		for(int i=0; i<iarray.length; i++) {
 			iarray[i] = i + 1;
 		}
+		int sum = 0;
+		for(int i = 0; i< iarray.length; i++) {
+			sum = sum + iarray[i];
+		}
+		
+		System.out.println(sum);
 	}
 
 }
