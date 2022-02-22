@@ -14,5 +14,13 @@ public class SwitchExam {
 		default:
 			System.out.println("그 외 다른 숫자");
 		}
+		
+		String str = "A";
+		switch(str) {
+		case "A":
+			System.out.println("A");
+			break;
+		case "B":
+		}
 	}
 }
