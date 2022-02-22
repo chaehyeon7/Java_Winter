@@ -1,5 +1,6 @@
 package part4;
 
-public class Car {
-
-}
+public class Car{
+	   String name;    
+	   int number;
+	   }
