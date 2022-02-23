@@ -1,7 +1,11 @@
 package part6;
 
 public class Bus extends Car {
-	public void ppangppang() {
-		System.out.println("户户");
+//	public void ppangppang() {
+//		System.out.println("户户");
+//	}
+	public void run() {
+		super.run();
+		System.out.println("Bus狼 run皋家靛");
 	}
 }
