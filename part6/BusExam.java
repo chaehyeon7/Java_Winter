@@ -5,5 +5,10 @@ public class BusExam {
 		Bus bus = new Bus();
 		bus.run();
 		bus.ppangppang();
+		
+		Car car = new Car();
+		car.run();
+		
+//		car.ppangppang();   사용 불가
 	}
 }
