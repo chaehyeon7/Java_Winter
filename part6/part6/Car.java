@@ -1,7 +1,7 @@
 package part6;
 
-public class Car {
-	public void run() {
-		System.out.println("달리다");
-	}
+public class Car{
+    public Car(String name){
+        System.out.println("Car의name 기본생성자입니다.");
+    }
 }
